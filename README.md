@@ -3,10 +3,13 @@ This is a simple tool I created to help me out with my day to day WHOIS searches
 
 # Usage
 
-*MUST BE RAN ON A LINUX SYSTEM WITH PYTHON3 INSTALLED*
+<b>MUST BE RAN ON A LINUX SYSTEM WITH PYTHON3 INSTALLED</b>
+<br></br>
 <code>
 chmod +x whoissearch.py
-
+</code>
+<br></br>
+<code>
 ./whoissearch.py
 </code>
 # Status
